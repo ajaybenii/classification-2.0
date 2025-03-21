@@ -1,0 +1,11 @@
+pillow
+uvicorn
+fastapi
+python-multipart
+typing-extensions==4.6.1
+moviepy==1.0.3
+tensorflow==2.9.0
+keras==2.9.0
+numpy==1.24.3
+google-genai
+aiofiles
